@@ -2,5 +2,5 @@
 layout: slide
 Title: "Bienvenidos a la segunda página"
 ---
-Tu texto 
-Utiliza 
+He creado un pull request para poder editar este código
+Utiliza
